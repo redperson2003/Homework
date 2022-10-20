@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\turan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\turan\\.nuget\\packages",
+      "D:\\Visual Studio SDK\\NuGetPackages"
+    ]
+  }
+}
